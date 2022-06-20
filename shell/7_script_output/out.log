@@ -1,0 +1,6 @@
+total 4
+drwxrwxrwx 1 sikao sikao 4096 Jun 20  2022 .
+drwxrwxrwx 1 sikao sikao 4096 Jun 19 04:45 ..
+-rwxrwxrwx 1 sikao sikao    0 Jun 20  2022 err.log
+-rwxrwxrwx 1 sikao sikao    0 Jun 20  2022 out.log
+-rwxrwxrwx 1 sikao sikao   40 Jun 20 03:41 output.sh
